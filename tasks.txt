@@ -1,0 +1,4 @@
+Task list
+
+ - obtain data
+ - summarize the key variables
